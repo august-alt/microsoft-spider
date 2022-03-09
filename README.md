@@ -1,4 +1,5 @@
-	#Install
+### Install
+
 ```
 # apt-get install python3-module-sqlite3
 
@@ -9,7 +10,7 @@ source scrapy\bin\activate
 python3 -m pip install Scrapy
 ```
 
-	#Run
+### Run
 
 ```
 git clone https://github.com/august-alt/microsoft-spider
